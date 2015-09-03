@@ -1,0 +1,11 @@
+C:\Users\Martin\Desktop\C#Learning\ShoppingApplication\bin\Debug\ShoppingApplication.exe
+C:\Users\Martin\Desktop\C#Learning\ShoppingApplication\bin\Debug\ShoppingApplication.pdb
+C:\Users\Martin\Desktop\C#Learning\ShoppingApplication\obj\Debug\ShoppingApplication.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\C#Learning\ShoppingApplication\obj\Debug\ShoppingApplication.AddItemForm.resources
+C:\Users\Martin\Desktop\C#Learning\ShoppingApplication\obj\Debug\ShoppingApplication.SignInForm.resources
+C:\Users\Martin\Desktop\C#Learning\ShoppingApplication\obj\Debug\ShoppingApplication.Properties.Resources.resources
+C:\Users\Martin\Desktop\C#Learning\ShoppingApplication\obj\Debug\ShoppingApplication.RegisterForm.resources
+C:\Users\Martin\Desktop\C#Learning\ShoppingApplication\obj\Debug\ShoppingApplication.StoreForm.resources
+C:\Users\Martin\Desktop\C#Learning\ShoppingApplication\obj\Debug\ShoppingApplication.csproj.GenerateResource.Cache
+C:\Users\Martin\Desktop\C#Learning\ShoppingApplication\obj\Debug\ShoppingApplication.exe
+C:\Users\Martin\Desktop\C#Learning\ShoppingApplication\obj\Debug\ShoppingApplication.pdb
